@@ -1,7 +1,11 @@
 /* eslint-disable no-param-reassign */
 import React, { useState, useEffect, useRef } from 'react';
 import {
-  View, Image, StatusBar, Pressable, StyleSheet,
+	View,
+	Image,
+	StatusBar,
+	Pressable,
+	StyleSheet,
 } from 'react-native';
 import Animated, {
     interpolate,
